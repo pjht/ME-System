@@ -1,0 +1,15 @@
+[
+{
+  "modid": "mesystem",
+  "name": "ME System addon for SSSP",
+  "description": "SSSP ME System addon.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Peter"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": []
+}
+]

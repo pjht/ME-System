@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "mesystem:8080_ic"
+		},
+		{
+			"item": "mesystem:8080_pcb_blank"
+		}
+	],
+	"result": {
+		"item": "mesystem:8080_pcb"
+	}
+}

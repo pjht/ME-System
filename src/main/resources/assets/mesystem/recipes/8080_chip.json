@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "ssspcore:blank_chip"
+		},
+		{
+			"item": "mesystem:8080_blueprint"
+		}
+	],
+	"result": {
+		"item": "mesystem:8080_chip"
+	}
+}

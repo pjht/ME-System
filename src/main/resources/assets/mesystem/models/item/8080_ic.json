@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "mesystem:items/8080_ic"
+	}
+}

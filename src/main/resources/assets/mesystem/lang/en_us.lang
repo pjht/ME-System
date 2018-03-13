@@ -1,0 +1,11 @@
+# Items
+item.8080_chip.name=8080 Chip
+item.8080_ic.name=8080 IC
+item.8080_blueprint.name=8080 Chip Blueprint
+item.8080_pcb_blank.name=Blank 8080 PCB
+item.8080_pcb.name=8080 PCB
+item.8080_pcb_blueprint.name=8080 PCB Blueprint
+# Blocks
+
+#  Creative Tabs
+itemGroup.mesystem=ME System

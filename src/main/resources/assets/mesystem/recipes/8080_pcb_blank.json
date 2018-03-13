@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "ssspcore:blank_pcb"
+		},
+		{
+			"item": "mesystem:8080_pcb_blueprint"
+		}
+	],
+	"result": {
+		"item": "mesystem:8080_pcb_blank"
+	}
+}
