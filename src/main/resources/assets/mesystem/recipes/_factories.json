@@ -1,0 +1,5 @@
+{
+	"recipes": {
+		"blueprint_shapeless" : "com.pjht.mysystem.item.crafting.BlueprintShapelessRecipe"
+	}
+}

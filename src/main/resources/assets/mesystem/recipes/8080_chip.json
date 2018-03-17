@@ -1,5 +1,5 @@
 {
-	"type": "minecraft:crafting_shapeless",
+	"type": "mesystem:blueprint_shapeless",
 	"ingredients": [
 		{
 			"item": "ssspcore:blank_chip"
