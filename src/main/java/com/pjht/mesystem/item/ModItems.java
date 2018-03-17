@@ -13,10 +13,10 @@ public class ModItems {
 	public static void init() {
 		registerItem("8080_chip");
 		registerItem("8080_ic");
-		registerItem("8080_blueprint");
 		registerItem("8080_pcb_blank");
 		registerItem("8080_pcb");
-		registerItem("8080_pcb_blueprint");
+		registerItemBlueprint("8080_blueprint");
+		registerItemBlueprint("8080_pcb_blueprint");
 	}
 	
 	public static void register(IForgeRegistry<Item> registry) {
@@ -35,6 +35,10 @@ public class ModItems {
 		items.put(name, new ItemBase(name));
 	}
 	
+    private static void registerItemBlueprint(String name) { 
+        items.put(name, new ItemBlueprint(name));
+    }
+
 	private static void registerOredict(String name, String oredict) {
 		items.put(name, new ItemOre(name,oredict));
 	}
