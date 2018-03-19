@@ -6,6 +6,12 @@
 		},
 		{
 			"item": "mesystem:8080_blueprint"
+		},
+		{
+			"item": "ssspcore:phosphoric_acid"
+		},
+		{
+			"item": "ssspcore:boric_acid"
 		}
 	],
 	"result": {

@@ -6,6 +6,9 @@
 		},
 		{
 			"item": "mesystem:8080_pcb_blueprint"
+		},
+		{
+			"item": "ssspcore:ferric_acid"
 		}
 	],
 	"result": {
