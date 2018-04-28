@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "ssspcore:housing"
+		},
+		{
+			"item": "mesystem:comparator_chip"
+		},
+		{
+			"item": "minecraft:gold_nugget"
+		}
+	],
+	"result": {
+		"item": "mesystem:comparator_ic"
+	}
+}

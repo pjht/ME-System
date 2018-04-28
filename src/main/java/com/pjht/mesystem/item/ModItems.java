@@ -17,6 +17,13 @@ public class ModItems {
 		registerItem("8080_pcb");
 		registerItemBlueprint("8080_blueprint");
 		registerItemBlueprint("8080_pcb_blueprint");
+		registerItem("8k_sram_ic");
+		registerItem("8k_sram_chip");
+		registerItemBlueprint("8k_sram_blueprint");
+		registerItem("comparator_chip");
+		registerItem("comparator_ic");
+		registerItemBlueprint("comparator_blueprint");
+		//NEXT ITEM HERE
 	}
 	
 	public static void register(IForgeRegistry<Item> registry) {
